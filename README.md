@@ -14,7 +14,7 @@ DOM manipulation (JS) [✨Editor de memes](https://paulaschmidt62.github.io/edit
     
 **Some practice websites:**  
 [✨Portfolio](https://maru10h.github.io/Portfolio-Ada-agosto/)  
-[✨Grupo Systa](https://gruposysta.netlify.app/)  
+[✨Grupo Systa](https://maru10h.github.io/Systa/)  
 [✨App React](https://master--lustrous-empanada-c3816e.netlify.app/)
 
 
